@@ -1,0 +1,31 @@
+#section1 > div:first-child {
+      background-image: url("https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2024/10/01/20241001-125816_U16224_M991309_fceb.png?wsoKSW3RwlAR248akLfXuYyMGxhhjA9Z&itok=4o94Tz06");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+			z-index:-1;
+  }
+
+  #section2 > div:first-child {
+      background-image: url("https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/04/realtime/30655391.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+		z-index:-1;
+  }
+
+  #section3 > div:first-child {
+      background-image: url("https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2024/10/05/1/30664084.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+		z-index:-1;
+  }
+
+  #section4 > div:first-child {
+      background-image: url("https://imgcdn.cna.com.tw/www/WebPhotos/800/20241004/1200x675_wmky_398125771682_202410040101000000.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+		z-index:-1;
+  }
